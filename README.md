@@ -1,9 +1,8 @@
 ### Hi there 👋,
 
-I transitioned from a career in marketing to data analytics, driven by my recognition of the transformative power of data-driven insights in shaping strategic decision-making and fueling business growth. 
+Data-driven and detail-oriented professional with a strong background in marketing analytics, operations, and stakeholder management. Skilled in executing digital campaigns, analyzing performance metrics, and creating engaging content across social media and web platforms. Adept at combining creative marketing strategies with technical know-how (Python, SQL, Power BI, Tableau, SEO) to drive brand awareness, lead generation, and operational efficiency. Fluent in English and Greek, with international experience in retail operations, data analytics, and marketing activation.
 
- + I am currently based in Berlin, Germany. Open for job offers, on site or working remotely
- + I recently graduated from Ironhack as a Data Analyst
+ + I am currently based in Berlin, Germany. 
  + Languages: English, Greek, French, German, Russian
 
 
